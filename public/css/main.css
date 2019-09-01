@@ -1,4 +1,8 @@
-
+body {
+	padding: 0;
+	margin: 0;
+	font-family: Montserrat;
+}
 * {
 	box-sizing: border-box;
 }
@@ -80,7 +84,10 @@
 .info_string {
   margin-top: 5%;
 }
-
+.button {
+	
+	
+}
   span {
 	font-family: Roboto;
     font-style: normal;
@@ -145,6 +152,7 @@
 nav ul {
 	display: flex;
 	padding: 0;
+	justify-content
 }
 nav ul li {
 	 list-style: none; 
@@ -192,6 +200,7 @@ nav ul li a {
 .blockinfo {
 	display: flex;
     flex-wrap: wrap;
+    align-items: ; 
 }
 
 .box {
@@ -208,6 +217,7 @@ nav ul li a {
 	text-align: left;
 }
 .box > p {
+	display: ;
 	width: 230px;
 }
 .box > p:first-child {

@@ -1,4 +1,8 @@
-
+body {
+	padding: 0;
+	margin: 0;
+	font-family: Montserrat;
+}
 * {
 	box-sizing: border-box;
 }
@@ -88,7 +92,7 @@
     font-size: 20px;
     line-height: 19px;
 	color:#117a99;
-	margin-left: 15px;
+	margin-left: 12px;
 	padding: 1.2px 8px 1.2px 8px; 
 	background: #e0e0e0;
 	border: 1px solid #e0e0e0;
